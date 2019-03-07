@@ -1,0 +1,7 @@
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\FirstSpecFlowConsoleApp\bin\Debug\FirstSpecFlowConsoleApp.exe.config
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\FirstSpecFlowConsoleApp\bin\Debug\FirstSpecFlowConsoleApp.exe
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\FirstSpecFlowConsoleApp\bin\Debug\FirstSpecFlowConsoleApp.pdb
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\FirstSpecFlowConsoleApp\obj\Debug\FirstSpecFlowConsoleApp.csprojAssemblyReference.cache
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\FirstSpecFlowConsoleApp\obj\Debug\FirstSpecFlowConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\FirstSpecFlowConsoleApp\obj\Debug\FirstSpecFlowConsoleApp.exe
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\FirstSpecFlowConsoleApp\obj\Debug\FirstSpecFlowConsoleApp.pdb

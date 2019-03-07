@@ -1,0 +1,9 @@
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\bin\Debug\netstandard2.0\Utilities.deps.json
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\bin\Debug\netstandard2.0\Utilities.dll
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\bin\Debug\netstandard2.0\Utilities.pdb
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\obj\Debug\netstandard2.0\Utilities.csprojAssemblyReference.cache
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\obj\Debug\netstandard2.0\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfoInputs.cache
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\obj\Debug\netstandard2.0\Utilities.AssemblyInfo.cs
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\obj\Debug\netstandard2.0\Utilities.dll
+C:\Users\bahern\OneDrive - DeCare Systems Ireland\Documents\DSI\Learning\Specflow\FirstSpecFlowTest\Utilities\obj\Debug\netstandard2.0\Utilities.pdb
